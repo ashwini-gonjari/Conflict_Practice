@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-
-
-=======
 Hi Ashwini Gonjari-updated
 How are you?
->>>>>>> 857ba03 (Update Ashwini.txt)
